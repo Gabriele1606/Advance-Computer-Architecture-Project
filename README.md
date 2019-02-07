@@ -16,7 +16,7 @@ of solving a growing number of use cases. The last tool used is Kibana, which is
 visualization plugin for Elasticsearch. It provides visualization capabilities on top of the content indexed
 on an Elasticsearch cluster.
 
-![example_1](https://github.com/Gabriele1606/Advance-Computer-Architecture-Project/blob/master/Images%20example/example_1.png)
+<img src="https://github.com/Gabriele1606/Advance-Computer-Architecture-Project/blob/master/Images%20example/example_1.png" width="60%">
 
 The final result is the Kibana Dashboad:
 
